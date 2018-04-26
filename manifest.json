@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "EnvyQuickSwitch",
+  "version": "1.0.0",
+
+  "description": "Switch between environments with the press of a hot key",
+
+  "options_ui": {
+    "page": "configuration/configuration.html",
+    "open_in_tab": true
+  },
+
+  "permissions": ["storage"]
+}
