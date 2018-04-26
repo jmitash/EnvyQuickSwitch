@@ -1,0 +1,24 @@
+{
+  "name": "envyquickswitch",
+  "version": "1.0.0",
+  "description": "WebExtension to switch between development environments with a hotkey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knoxcorner/EnvyQuickSwitch.git"
+  },
+  "author": "Jacob Mitash",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/knoxcorner/EnvyQuickSwitch/issues"
+  },
+  "homepage": "https://github.com/knoxcorner/EnvyQuickSwitch#readme",
+  "devDependencies": {
+    "bootstrap": "^4.1.0",
+    "vue": "^2.5.16",
+    "web-ext": "^2.6.0"
+  }
+}
